@@ -5,4 +5,4 @@ youtube_dl
 colorlog
 cffi --only-binary all; sys_platform == 'win32'
 ctx
-discord.py
+discord.py==0.16.12
