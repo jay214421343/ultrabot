@@ -8,7 +8,6 @@ import colorsys
 import random
 import os
 import time
-import aiohttp
 import ctx
 import json
 import game
