@@ -8,9 +8,7 @@ import colorsys
 import random
 import os
 import time
-import ctx
 import json
-import game
 
 HOST = "127.0.0.1"
 
